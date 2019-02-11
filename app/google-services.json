@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "851950872954",
+    "firebase_url": "https://chatfree-819f3.firebaseio.com",
+    "project_id": "chatfree-819f3",
+    "storage_bucket": "chatfree-819f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851950872954:android:ab726326543ef1c0",
+        "android_client_info": {
+          "package_name": "kesharpaudel.chatfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851950872954-j8ih78t101sfelr5sh5cvme57tf0ied6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kesharpaudel.chatfree",
+            "certificate_hash": "25e09688bb1a461ef2d4a338314ffc04b26b4cc4"
+          }
+        },
+        {
+          "client_id": "851950872954-vaon5eh76nobtrboa6h5vbp8d46idu5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4hSmQAexSKhNwqbvR2JeLJEdaOfjBey0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851950872954-vaon5eh76nobtrboa6h5vbp8d46idu5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

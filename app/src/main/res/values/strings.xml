@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatFree</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_there_i_m_using_chatfree_chat_apps">Hi there, I\'m using Chatfree chat apps</string>
+</resources>
